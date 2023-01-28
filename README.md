@@ -59,4 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gamers-geek/gamers-geek/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gamers-geek/Gamers-geek/output/snake.svg" alt="Snake animation" />
+
+###

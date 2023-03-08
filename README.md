@@ -62,6 +62,16 @@
 <img src="https://raw.githubusercontent.com/Gamers-geek/Gamers-geek/output/snake.svg" alt="Snake animation" />
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   3 hrs 41 mins   ████████████████████▓░░░░   82.89 %
+JSON         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+HTML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ###

@@ -65,11 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              59 mins         ██████████▒░░░░░░░░░░░░░░   41.06 %
-Blade Template   40 mins         ███████░░░░░░░░░░░░░░░░░░   27.81 %
-JavaScript       35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.53 %
-YAML             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-SQL              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

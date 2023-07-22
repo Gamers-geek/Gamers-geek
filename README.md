@@ -65,11 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   1 hr 41 mins    ███████████████▓░░░░░░░░░   62.20 %
-PHP              32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-JavaScript       29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

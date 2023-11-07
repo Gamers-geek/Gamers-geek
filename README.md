@@ -65,7 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       6 mins          █████████████████░░░░░░░░   68.29 %
+Git Config   2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Assembly     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->

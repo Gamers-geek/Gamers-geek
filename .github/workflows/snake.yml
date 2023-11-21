@@ -15,7 +15,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake.svg
+      - uses: Platane/snk@v3
+        name: generate snake.svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg

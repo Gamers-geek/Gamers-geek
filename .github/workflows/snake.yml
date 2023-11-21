@@ -16,8 +16,9 @@ jobs:
 
     steps:
       - uses: Platane/snk@v3
-        name: generate snake.svg
+        name: generate snake.svg 
         with:
+          palette: github-dark
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
         

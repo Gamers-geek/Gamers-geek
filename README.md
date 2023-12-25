@@ -70,11 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   2 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   42.93 %
-PHP              1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-Markdown         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-JavaScript       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Python           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Python           2 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.38 %
+Blade Template   2 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+PHP              1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Markdown         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+JavaScript       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->

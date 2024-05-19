@@ -70,7 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript       15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.23 %
+Blade Template   15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+PHP              14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+Bash             5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+EJS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->

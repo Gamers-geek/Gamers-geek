@@ -70,8 +70,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   37 mins         ███████████████████████▓░   94.06 %
-Git Config   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+JavaScript   47 mins         ███████████████████████▓░   94.90 %
+Git Config   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->

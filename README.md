@@ -70,9 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CFEngine3    7 mins          ██████████░░░░░░░░░░░░░░░   39.62 %
-Other        5 mins          ████████░░░░░░░░░░░░░░░░░   32.52 %
-JavaScript   5 mins          ███████░░░░░░░░░░░░░░░░░░   27.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -70,11 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              3 hrs 47 mins   █████████████▒░░░░░░░░░░░   52.96 %
-JavaScript       1 hr 54 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-Blade Template   1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-Git Config       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+PHP              4 hrs 8 mins    ████████████▓░░░░░░░░░░░░   50.51 %
+JavaScript       2 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
+Blade Template   1 hr 46 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
+Git Config       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->

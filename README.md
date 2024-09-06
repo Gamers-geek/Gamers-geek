@@ -70,7 +70,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+PHP              2 mins          ███████████████████████▓░   94.23 %
+Python           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Blade Template   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->

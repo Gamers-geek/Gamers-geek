@@ -70,11 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       0 secs          █████████████████████▒░░░   85.27 %
-CSS              0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-EJS              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-SQL              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

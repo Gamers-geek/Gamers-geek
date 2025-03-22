@@ -70,11 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        1 hr 24 mins    ██████████████▒░░░░░░░░░░   57.57 %
-TypeScript        32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-JSON              13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-textmate          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+JavaScript        1 hr 39 mins    ███████████████░░░░░░░░░░   60.45 %
+TypeScript        32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+JSON              14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+textmate          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -70,8 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OCaml   3 mins          █████████████████████████   99.81 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

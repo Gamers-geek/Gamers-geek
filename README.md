@@ -70,10 +70,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       0 secs          █████████████░░░░░░░░░░░░   51.57 %
-PHP              0 secs          ████████▒░░░░░░░░░░░░░░░░   33.11 %
-Blade Template   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

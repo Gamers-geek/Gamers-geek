@@ -70,11 +70,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         5 hrs 44 mins   ██████████████░░░░░░░░░░░   55.89 %
-Java               1 hr 52 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-Markdown           1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-reStructuredText   46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-HTML               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+reStructuredText   3 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   44.75 %
+Markdown           1 hr 50 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+JavaScript         1 hr 46 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+Java               35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+TeX                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->

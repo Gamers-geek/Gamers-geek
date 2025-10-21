@@ -70,8 +70,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java               2 hrs 32 mins   ████████████████████████▓   98.55 %
-reStructuredText   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Java     2 hrs 32 mins   ████████████████████████░   96.03 %
+Python   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
